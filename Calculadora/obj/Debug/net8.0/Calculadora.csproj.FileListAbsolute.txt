@@ -1,0 +1,15 @@
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(6) Video Aulas - DevOrientadoTestes\DesafioDeProjeto2\trilha-net-tdd-testes-unitarios-desafio\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(6) Video Aulas - DevOrientadoTestes\DesafioDeProjeto2\trilha-net-tdd-testes-unitarios-desafio\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(6) Video Aulas - DevOrientadoTestes\DesafioDeProjeto2\trilha-net-tdd-testes-unitarios-desafio\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(6) Video Aulas - DevOrientadoTestes\DesafioDeProjeto2\trilha-net-tdd-testes-unitarios-desafio\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(6) Video Aulas - DevOrientadoTestes\DesafioDeProjeto2\trilha-net-tdd-testes-unitarios-desafio\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(6) Video Aulas - DevOrientadoTestes\DesafioDeProjeto2\trilha-net-tdd-testes-unitarios-desafio\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(6) Video Aulas - DevOrientadoTestes\DesafioDeProjeto2\trilha-net-tdd-testes-unitarios-desafio\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(6) Video Aulas - DevOrientadoTestes\DesafioDeProjeto2\trilha-net-tdd-testes-unitarios-desafio\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(6) Video Aulas - DevOrientadoTestes\DesafioDeProjeto2\trilha-net-tdd-testes-unitarios-desafio\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(6) Video Aulas - DevOrientadoTestes\DesafioDeProjeto2\trilha-net-tdd-testes-unitarios-desafio\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(6) Video Aulas - DevOrientadoTestes\DesafioDeProjeto2\trilha-net-tdd-testes-unitarios-desafio\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(6) Video Aulas - DevOrientadoTestes\DesafioDeProjeto2\trilha-net-tdd-testes-unitarios-desafio\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(6) Video Aulas - DevOrientadoTestes\DesafioDeProjeto2\trilha-net-tdd-testes-unitarios-desafio\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(6) Video Aulas - DevOrientadoTestes\DesafioDeProjeto2\trilha-net-tdd-testes-unitarios-desafio\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(6) Video Aulas - DevOrientadoTestes\DesafioDeProjeto2\trilha-net-tdd-testes-unitarios-desafio\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
