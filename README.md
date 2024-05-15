@@ -27,7 +27,7 @@ O objetivo desse curso é ensinar brevemente os seguintes tópicos:
 | 03 | Aplicando testes integrados em .NET |
 | 04 | TDD e testes unitários usando .NET Core - Desafio |
 
-## Desafio de projeto
+## Desafio de projeto - Aula 4
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de desenvolvimento orientado a testes, da trilha .NET da DIO.
 
 ## Contexto
