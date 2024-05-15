@@ -134,5 +134,5 @@ public class CalculadoraTests
     }
             
             // Observaão final: quando utilizamos o FACT, o código é executado por bloco. Quando utilizamos o THEORY, é executado por linhas
-                // Ao todos são 6 FACTs e 3 linhas em Theory = 9 validações
+                // Ao todos são 7 FACTs e 3 linhas em Theory = 10 validações
 }
